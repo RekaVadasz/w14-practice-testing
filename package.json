@@ -1,0 +1,26 @@
+{
+  "name": "w14-practice-testing",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RekaVadasz/w14-practice-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RekaVadasz/w14-practice-testing/issues"
+  },
+  "homepage": "https://github.com/RekaVadasz/w14-practice-testing#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
